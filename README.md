@@ -20,7 +20,7 @@ Partie de dames Humain contre IA sur STM32F746G avec la bibliothèque StemWin. C
 
 Voici une brève explication des différentes fonctions présentes dans le code :
 
--## GUI_Init() : Cette fonction initialise la bibliothèque graphique GUI.
+-GUI_Init() : Cette fonction initialise la bibliothèque graphique GUI.
 
 -GUI_DispStringAt("Starting...", 0, 0) : Cette fonction affiche le texte "Starting..." à la position (0, 0) de l'écran.
 
